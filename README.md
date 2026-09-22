@@ -303,11 +303,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
-#### mcp-builder
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Create high-quality Model Context Protocol servers for external integrations.
-**Use Case:** Building custom MCP servers, extending Claude's capabilities
-**Stars:** ⭐⭐⭐⭐⭐
+#### api-development
+**Status:** Community-needed
+**Description:** RESTful API design patterns with OpenAPI/Swagger generation.
+**Use Case:** Building backend services, documenting APIs
 
 #### artifacts-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
@@ -321,15 +320,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing system boundaries and an agent's intended edits before allowing code changes
 **Stars:** ⭐⭐⭐⭐⭐
 
-#### api-development
-**Status:** Community-needed
-**Description:** RESTful API design patterns with OpenAPI/Swagger generation.
-**Use Case:** Building backend services, documenting APIs
-
 #### database-migration
 **Status:** Community-needed
 **Description:** Schema version management and safe migration patterns for production.
 **Use Case:** Database evolution, schema changes, data migrations
+
+#### mcp-builder
+**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
+**Description:** Create high-quality Model Context Protocol servers for external integrations.
+**Use Case:** Building custom MCP servers, extending Claude's capabilities
+**Stars:** ⭐⭐⭐⭐⭐
 
 #### refactoring-patterns
 **Status:** Community-needed
