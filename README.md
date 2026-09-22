@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### birdview
+**Source:** [Qiuner/birdview](https://github.com/Qiuner/birdview) | **Verified:** ⏳
+**Description:** Maps architecture, constraints, and planned change scope to source evidence before agent implementation.
+**Use Case:** Reviewing system boundaries and an agent's intended edits before allowing code changes
+**Stars:** ⭐⭐⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
